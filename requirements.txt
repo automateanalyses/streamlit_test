@@ -47,8 +47,7 @@ cligj==0.7.2
 cloudpickle 
 colorama 
 colorcet 
-comm 
-conda-content-trust 
+comm
 conda-package-handling 
 conda_package_streaming 
 confection==0.0.4
@@ -388,3 +387,4 @@ zict
 zipp 
 zope.interface==5.5.2
 zstandard==0.19.0
+
